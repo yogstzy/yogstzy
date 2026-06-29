@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Guys, I'm Yoga Siswanto👋
 
 <!--
 **yogstzy/yogstzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m a student at **Universitas Teknologi Yogyakarta**
+😊😊😊
+
+![Enjoy](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJ3ZTRramhxdDhkZzVrOHVqdWp4NG1uZGxkcTlhbjJzbzExMDM3ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ASd0Ukj0y3qMM/giphy.gif)
